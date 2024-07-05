@@ -1,0 +1,6 @@
+__pycache__
+*.ipynb
+*.pth
+*.log
+data/*
+models/*
